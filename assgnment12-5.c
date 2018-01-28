@@ -1,5 +1,5 @@
 //Write a C program to read and print the details of n student using structure and dynamic memory allocation.
-//In this program define a structure “student”, which includes “rool” and “name” as members. Then create a data base for n students.
+//In this program define a structure “student”, which includes “roll” and “name” as members. Then create a data base for n students.
 //Reserve the space for all n records using malloc(0/calloc() and then store all the data using the pointer.
 #include<stdio.h>
 #include<stdlib.h>
