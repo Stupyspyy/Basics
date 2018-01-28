@@ -1,1 +1,3 @@
-#ASSIGNMENTS
+This file is created to make my learning updates onn...
+
+AND STILL THINKING "....~ HOW TO USE GITHUB IN EFFECTIVE MANNER ~...."
