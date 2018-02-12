@@ -41,7 +41,7 @@ void display()
 }
 void delete(int temp)
 {
-    stack nodee *p,temp;
+    stack nodee *p,*pp,*temp;
     p=start;
     if(temp==start->info)
     {
@@ -49,13 +49,15 @@ void delete(int temp)
         free(p);
     }
     else
-    {
+    {   
         while(p->info!=temp)
         {
-            temp=p;
+            pp=p;
             p=p->next;
         }
-        temp=
+        temp=pp->next;
+        pp->next=p->next;
+        free(temp);
     }
 }
 int main()
