@@ -1,3 +1,3 @@
-This file is created to make my learning updates onn...
+This file is created for my learning updates ."ON".
 
-AND STILL THINKING "....~ HOW TO USE GITHUB IN EFFECTIVE MANNER ~...."
+ STILL THINKING "....~ HOW TO USE GITHUB IN EFFECTIVE MANNER ~...."
